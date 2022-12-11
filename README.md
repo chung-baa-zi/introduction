@@ -4,3 +4,5 @@
 
 
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">[서버](https://github.com/chung-baa-zi/backend)
+
+<img src="https://img.shields.io/badge/youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
