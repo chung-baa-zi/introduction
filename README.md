@@ -93,13 +93,6 @@ COVID-19로 인하여 2년 동안 거리두기 및 비대면 수업이 진행되
 
 ## 만든사람들
 
-#### [Server] [최재혁](https://github.com/jjaegii)
-
-#### [Server] [김두현](https://github.com/hyudussaya)
-
-#### [UI Design] [김재현](https://github.com/Grodned)
-
-
 <table border="1">
     <th>
         <img src="https://img.shields.io/badge/Client-02569B?style=for-the-badge&logo=flutter&logoColor=white"></img>
