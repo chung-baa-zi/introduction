@@ -2,24 +2,10 @@
 
 # 청-바지 모바일 미니 게임
 
-## 만든사람들
-
-#### [Client] [원준영](https://github.com/Junyoung-WON)
-
-#### [Client] [허지명](https://github.com/hewjamong)
-
-#### [Server] [최재혁](https://github.com/jjaegii)
-
-#### [Server] [김두현](https://github.com/hyudussaya)
-
-#### [UI Design] [김재현](https://github.com/Grodned)
-
 ## 소스코드 및 발표영상
 
 [<img src="https://img.shields.io/badge/클라이언트-181717?style=for-the-badge&logo=github&logoColor=white">](https://github.com/chung-baa-zi/bluejeanfront)
-
 [<img src="https://img.shields.io/badge/서버-181717?style=for-the-badge&logo=github&logoColor=white">](https://github.com/chung-baa-zi/backend)
-
 [<img src="https://img.shields.io/badge/발표영상-FF0000?style=for-the-badge&logo=youtube&logoColor=white">](https://www.youtube.com/watch?v=vQYdbG4Fylc)
 
 ## 1. 소개
@@ -30,12 +16,12 @@ COVID-19로 인하여 2년 동안 거리두기 및 비대면 수업이 진행되
 
 **2.1. Client**
 
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white)
 
 **2.2. Server**
 
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white)
-![Socketio](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=Socket.io&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=Express&logoColor=white)
+![Socketio](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=Socket.io&logoColor=white)
 
 ## 3. 기능 설명
 
@@ -104,3 +90,45 @@ COVID-19로 인하여 2년 동안 거리두기 및 비대면 수업이 진행되
 게임이 종료되면 게임에서 패배한 유저가 벌칙을 받게 된다.
 
 <img src="https://user-images.githubusercontent.com/77189999/216884121-cc588b56-3d8a-4bad-a64d-01464768a8fa.gif" width="250">
+
+## 만든사람들
+
+<table border="1">
+    <th>
+        <img src="https://img.shields.io/badge/Client-02569B?style=for-the-badge&logo=flutter&logoColor=white"></img>
+    </th>
+    <th>
+        <img src="https://img.shields.io/badge/Client-02569B?style=for-the-badge&logo=flutter&logoColor=white"></img>
+    </th>
+    <th>
+        <img src="https://img.shields.io/badge/server-010101?style=for-the-badge&logo=socket.io&logoColor=white"></img>
+    </th>
+    <th>
+        <img src="https://img.shields.io/badge/server-010101?style=for-the-badge&logo=socket.io&logoColor=white"></img>
+    </th>
+    <th>
+        <img src="https://img.shields.io/badge/UI-F24E1E?style=for-the-badge&logo=figma&logoColor=white"></img>
+    </th>
+    <tr>
+        <td align="center">
+            <img src="https://avatars.githubusercontent.com/u/92203597?v=4" width="100px;"> <br/>
+            <a href="https://github.com/Junyoung-WON">원준영</a>
+        </td>
+        <td align="center">
+            <img src="https://avatars.githubusercontent.com/u/84281455?v=4" width="100px;"> <br/>
+            <a href="https://github.com/HeoJamong">허지명</a>
+        </td>
+        <td align="center">
+            <img src="https://avatars.githubusercontent.com/u/102767676?v=4" width="100px;"> <br/>
+            <a href="https://github.com/iamdudumon">김두현</a>
+        </td>
+        <td align="center">
+            <img src="https://avatars.githubusercontent.com/u/77189999?v=4" width="100px;"> <br/>
+            <a href="https://github.com/jjaegii">최재혁</a>
+        </td>
+        <td align="center">
+            <img src="https://avatars.githubusercontent.com/u/84281599?v=4" width="100px;"> <br/>
+            <a href="https://github.com/Gordned">김재현</a>
+        </td>
+    </tr>
+</table>
